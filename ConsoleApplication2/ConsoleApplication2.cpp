@@ -18,6 +18,8 @@ int main()
 	std::cout << "this is hotfix branch";
 	std::cout << "this is hotfix branch2";
 	std::cout << "this is hotfix branch3";
+
+	printf("debug message\r\n");
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
